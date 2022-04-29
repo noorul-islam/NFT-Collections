@@ -1,1 +1,3 @@
 Crypto Devs Contract Address: 0x626D419040e53C50A30Fc715658ef56cda31bFb8
+
+New OpenSea Contract Address: 0x892Dd6814f24f032aA95063157569EDF84e93eF2
